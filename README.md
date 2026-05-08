@@ -57,20 +57,6 @@ Current Project: MeowieCop
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=official-lloydlewis&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-
-<br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=official-lloydlewis&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-
-</div>
-
----
-
 # 🔥 Contribution Streak
 
 <div align="center">
