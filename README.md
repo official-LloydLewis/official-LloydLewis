@@ -103,9 +103,6 @@ Current Project: MeowieCop
 
 <div align="center">
 
-```text
-> "Code. Optimize. Secure. Repeat."
-```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00f7ff,100:00ff9c&section=footer"/>
 
