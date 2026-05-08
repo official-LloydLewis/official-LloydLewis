@@ -43,47 +43,15 @@ Current Project: MeowieCop
 
 ---
 
-# 🚀 Featured Project
+# 🚀 Current Project
 
 ## 🔹 MeowieCop
 
-> Security-focused project built with performance and scalability in mind.
+> Security-focused project built with performance and scalability
 
 ```diff
-+ Focused on clean architecture
-+ Optimized backend performance
-+ Security-first approach
+MeowieCop is a lightweight moderation bot for Bale group chats. It helps admins manage users with simple reply-based commands like ban, unban, mute, and unmute while storing moderation data persistently using YAML files.
 ```
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=official-lloydlewis&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=official-lloydlewis&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=official-lloydlewis&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
 
 ---
 
