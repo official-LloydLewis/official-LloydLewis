@@ -45,12 +45,15 @@ Current Project: MeowieCop
 
 # 🚀 Current Project
 
-## 🔹 MeowieCop
+## 🔹 [MeowieCop](https://github.com/official-LloydLewis/MeowieCop)
 
 > Security-focused project built with performance and scalability
 
 ```diff
-MeowieCop is a lightweight moderation bot for Bale group chats. It helps admins manage users with simple reply-based commands like ban, unban, mute, and unmute while storing moderation data persistently using YAML files.
+MeowieCop is a lightweight moderation bot for Bale group chats.
+It helps admins manage users with simple reply-based commands
+like ban, unban, mute, and unmute
+while storing moderation data persistently using YAML files.
 ```
 
 ---
