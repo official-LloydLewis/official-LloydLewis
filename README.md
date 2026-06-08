@@ -28,7 +28,7 @@ Focus:
   - Backend Engineering
   - Performance Optimization
 
-Current Project: MeowieCop
+Current Project: BSS
 ```
 
 ---
@@ -45,15 +45,14 @@ Current Project: MeowieCop
 
 # 🚀 Current Project
 
-## 🔹 [MeowieCop](https://github.com/official-LloydLewis/MeowieCop)
+## 🔹 BSS (not released)
 
-> Security-focused project built with performance and scalability
+> freedom for all!
 
 ```diff
-MeowieCop is a lightweight moderation bot for Bale group chats.
-It helps admins manage users with simple reply-based commands
-like ban, unban, mute, and unmute
-while storing moderation data persistently using YAML files.
+A Cloudflare IP finder with a terminal UI,
+built for networks where latency is unpredictable and connections drop without warning.
+pick your settings, and let it find IPs that actually work through your proxy
 ```
 
 ---
